@@ -6,18 +6,7 @@ An interactive Power BI dashboard that analyzes **2,706 Coursera courses** to un
 
 ---
 
-## 🔗 Table of Contents
-
-- [Overview](#overview)
-- [Key Insights](#key-insights)
-- [Visual Features](#visual-features)
-- [Use Cases](#use-cases)
-- [Tools Used](#tools-used)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
-
----
+ 
 
 ## 📌 Overview
 
@@ -58,16 +47,7 @@ An interactive Power BI dashboard that analyzes **2,706 Coursera courses** to un
 
 ---
 
-## 🖼️ Visual Features
-
-- 📂 Category filters and dynamic drill-downs  
-- 🌐 Subtitle language impact analysis  
-- 📊 Instructor ratings & course length vs. viewership  
-- 🧠 Skill demand word cloud  
-- 📈 Skill count vs. viewers and subtitle variety vs. viewers  
-- 🕒 Time-based viewer impact analysis
-
----
+ 
 
 ## 💡 Use Cases
 
@@ -82,7 +62,7 @@ An interactive Power BI dashboard that analyzes **2,706 Coursera courses** to un
 
 - **Power BI** – For data modeling & dashboard design  
 - **Coursera Dataset** – Course, category, skill, language, and viewership data  
-- **Microsoft Excel** – Data preprocessing (if applicable)
+- **Microsoft Excel** – Data preprocessing 
 
 ---
 
