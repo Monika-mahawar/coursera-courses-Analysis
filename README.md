@@ -1,10 +1,7 @@
 # 📊 Coursera Courses Analysis Dashboard
 
 An interactive Power BI dashboard that analyzes **2,706 Coursera courses** to uncover trends in viewership, instructor ratings, skill demand, language preferences, and more.
-
-![Coursera Courses Dashboard](./a3cb4f68-0d46-4362-8c38-fe6c4ef905e3.png)
-
----
+ 
 
  
 
