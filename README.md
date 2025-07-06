@@ -55,8 +55,6 @@
 
 ---
 
- 
-
 ## 💡 Use Cases
 
 - **Learners**: Discover trending skills and top-rated instructors  
@@ -71,9 +69,25 @@
  
 - **Power BI Desktop** – For creating and publishing dashboards  
 - **Power Query Editor** – For transforming and cleaning data
-- ** github** - for deploye the project
-- 
+- **Git & GitHub** – Version control and deployment
 
+- ## 👩‍💼 About Me and the Project
+
+Hello! I’m **Monika Mahawar**, a 3rd-year B.Tech student at IIT Jodhpur , with a growing interest in **Data Analysis and Business Intelligence**.  
+
+This Power BI project is a step toward that journey — where I’ve taken a raw dataset of 2700+ online courses and transformed it into an interactive dashboard to uncover trends, user preferences, and demanding skills. From data cleaning to dashboard design, this project reflects my self-learning initiative and enthusiasm for applying data analytics in diverse domains.
+
+Through this project, I’ve learned:
+- How to analyze and structure complex datasets
+- The power of visual storytelling using Power BI
+- How small insights from raw data can lead to valuable decisions
+
+This is one of my early works in data analysis, and I’m excited to keep building more insightful dashboards and improving my technical skillset in SQL, Python, and Excel alongside Power BI.
+
+
+### 📫 Connect with Me:
+- **LinkedIn**: [Click Here](http://www.linkedin.com/in/monika-mahawar-561653313)
+  - **Email**: [mahawarmonika05@gmail.com](mailto:mahawarmonika05@gmail.com)
 ---
 
  
