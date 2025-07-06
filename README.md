@@ -1,9 +1,21 @@
 # 📊 Coursera Courses Analysis Dashboard
 
-An interactive Power BI dashboard that analyzes **2,706 Coursera courses** to uncover trends in viewership, instructor ratings, skill demand, language preferences, and more.
- 
+ This project focuses on analyzing a comprehensive dataset of 2700+ online courses across coursera. The goal is to uncover meaningful insights related to course categories, sub categories, instructor engagement, top langaueg , and skill demand using Power BI visualizations.
 
- 
+ ## 🧾 Dataset Summary
+- `Title` – Course title  
+- `URL` – Direct course link  
+- `Short Intro` – Brief description  
+- `Category` – Main subject (e.g., Data Science, Business)  
+- `Sub-Category` – Specific field (e.g., Machine Learning)  
+- `Course Type` – Format (e.g., Specialization, Professional Certificate)  
+- `Language` – Instruction language  
+- `Subtitle Languages` – Subtitles available  
+- `Skills` – Skills taught (e.g., Python, SQL, AI)  
+- `Instructors` – Course instructor(s)  
+- `Rating` – Learner ratings (text format)  
+- `Number of viewers` – Enrollment/viewership (text format)  
+- `Duration` – Course duration (e.g., “6 weeks”)  
 
 ## 📌 Overview
 
@@ -38,7 +50,6 @@ An interactive Power BI dashboard that analyzes **2,706 Coursera courses** to un
 
 ### 🔹 Viewership Drivers
 - **More Skills = More Views:** Courses covering 14+ skills perform best.
-- **Optimal Duration:** Viewership spikes around 96 hours.
 - **Subtitle Languages:** 5–6 subtitle options boost engagement.
 - **Top Instructors:** Barbara Oakley, Alan Eisner, Emily Fox, and more (Ratings 4.9–5.0)
 
@@ -57,14 +68,12 @@ An interactive Power BI dashboard that analyzes **2,706 Coursera courses** to un
 
 ## 🛠️ Tools Used
 
-- **Power BI** – For data modeling & dashboard design  
-- **Coursera Dataset** – Course, category, skill, language, and viewership data  
-- **Microsoft Excel** – Data preprocessing 
+ 
+- **Power BI Desktop** – For creating and publishing dashboards  
+- **Power Query Editor** – For transforming and cleaning data
+- ** github** - for deploye the project
+- 
 
 ---
 
-## 🧩 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/coursera-courses-dashboard.git
+ 
